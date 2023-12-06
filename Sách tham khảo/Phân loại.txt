@@ -1,0 +1,36 @@
+1> Hệ thống số:					Digital systerm, 
+						Digital design, 
+						Digital Design & Computer Architecture ARM Edition by Sarah L. Harris & David Money Harris 
+
+
+2> Kỹ thuật lập trình:				C++ How to Program 9th Edition- Paul Deitel
+
+
+3> Cấu trúc dữ liệu và giải thuật:		Data Structure & Algorithm analysis - Clifford A. Shaffer
+
+
+4> Kiến trúc máy tính: 		(khuyên dùng)	Computer Organization and Design The HardwareSoftware Interface - David Patterson & John L. Henessy
+						Modern Processor Design Fundamentals of Superscalar Processors - John Paul Shen & Mikko H. Lipasti 
+						Computer Architecture, Fifth Edition A Quantitative Approach - John L. Hennessy, David A. Patterson
+
+
+5> Mạch điện điện - điện tử :			Practical Electronics for Inventors Fourth Edition By Paul Scherz and Simon Monk
+
+
+6> Bitcoin: 					Bitcoin and Cryptocurrency Technologies A Comprehensive Introduction  by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder
+	
+	
+7> Lập trình nâng cao: 				Programming in Haskell by Graham Hutton (ngôn ngữ Haskell )
+
+
+8> Mô hình hóa toán học: 			A First Course in Mathematical Modeling-Cengage Learning - Frank R. Giordano, William P. Fox, Steven B. Horton
+						A first course in the numerical analysis of differential equations - A. Iserles - Cambridge University Press ( Second Edition)
+
+9> Hệ điều hành:				operating-system-concepts-10th (D:\School\211\He dieu hanh )
+
+10> Thiết kế vi mạch + Verilog : 		Verilog HDL Synthesis. A Practical Primet (Bhasker)
+
+
+11> Mạng máy tính: 				Computer Networking A Top-Down Approach by James W. Kurose, Keith W. Ross (z-lib.org)
+
+12> Nhập môn AI:				Artificial Intelligence A Modern Approach			
